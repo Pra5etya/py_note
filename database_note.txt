@@ -1,0 +1,10 @@
+1. mengunci database
+2. melakukan enkripsi data
+3. melakukan parameter querry
+4. melakukan auntentikasi data
+5. menambahkan monitoring dan logging
+6. melakukan validasi
+7. melakukan pemindaian keamanan (Bandit atau pylint => pemindaian kode)
+8. backup dan pemulihan (membuat skrip untuk cadangan data => crontab / cronjob) 
+	-> minimal lakukan backup sehari sekali
+	-> berikan tenggat waktu dari file dibuat (hapus file lebih dari 10 hari)

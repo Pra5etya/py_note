@@ -1,0 +1,14 @@
+Dalam pembuatan log ada beberap kolom yang dibutuhkan yakni: 
+    o> timestamp
+    o> activity
+    o> method
+    o> status
+    o> user
+    o> description
+    o> ip_address
+    o> device_info
+    o> log_level (
+        Log_level['info', 'warning', 'error', 'critical']
+        )
+    o> reference_code (HHTP Status Code)
+    o> additional data (Other)
